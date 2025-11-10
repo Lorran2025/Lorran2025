@@ -4,7 +4,7 @@
 
 🎯 Foco em criação trazendo eficiência e simplicidade
 
-💡 Atualmente foco os meus estudos em dados, como **Power BI**, **Excel**, **SQL**
+💡 Atualmente foco os meus estudos em dados, como **Power BI**, **Excel** e **SQL**
 
 
 ## 🧠 Sobre mim
