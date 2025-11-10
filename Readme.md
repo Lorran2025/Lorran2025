@@ -1,7 +1,9 @@
 # 💻 Lorran Pereira - Analista de Dados | Estudante de Ciência da Computação 
 
 🚀 Apaixonado por **tecnologia**, **dados** e **programação**
+
 🎯 Foco em criação trazendo eficiência e simplicidade
+
 💡 Atualmente foco os meus estudos em dados, como **Power BI**, **Excel**, **SQL**
 
 
