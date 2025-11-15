@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mim
 
-Me chamo Lorran Pereira da Silva, tenho 22 anos e moro em São Gonçalo - RJ.
+Eu me chamo Lorran Pereira da Silva, tenho 22 anos e moro em São Gonçalo - RJ.
 
 Sou estudante de **Ciência da Computação**, com interesse na área de **Análise de Dados**. Meu foco consiste em simplificar de forma coerente e organizada 
 processos e sistemas, buscando priorizar a clareza, manuseio e o desempenho do sistema por um todo.
