@@ -19,4 +19,3 @@ Atualmente o meu foco está em desenvolver **Dashboards Interativos** no Power B
 Estou em constante busca por oportunidades e aprendizados que me permitam aplicar meus conhecimentos em projetos desafiadores e inovadores. 
 Valorizo ​​ambientes que incentivam o aprendizado contínuo e o trabalho em equipe, e estou sempre disposto a explorar novas linguagens , 
 ferramentas e metodologias que ampliam meu repertório técnico e profissional.
-
