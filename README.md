@@ -78,12 +78,12 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server logo" />
       </td>
       <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau logo" />&nbsp;&nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50" height="50" alt="Power BI logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI logo" />&nbsp;&nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau logo" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50" alt="Excel logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Google Sheets logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50" height="50" alt="Excel logo" />&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" width="50" height="50" alt="Google Sheets logo" />
       </td>
     </tr>
   </tbody>
@@ -94,22 +94,20 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
     <tr>
       <th width="33%">🧠 Técnicas</th>
       <th width="33%">🐍 Linguagens de Programação</th>
-      <th width="33%">📈 Análise de Dados</th>
+      <th width="33%"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL logo" />
+        <!-- Logo SQL genérica -->
+        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50" height="50" alt="SQL logo" />
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R logo" />
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy logo" />
-      </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
