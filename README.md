@@ -99,29 +99,34 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
   </thead>
   <tbody>
     <tr>
+      <!-- TÉCNICAS -->
       <td align="center">
-        <div style="
-          display: inline-block;
-          background-color: #0d1117;
-          border: 1px solid #30363d;
-          border-radius: 12px;
-          padding: 25px 40px;
-        ">
-          <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50" height="50" alt="SQL logo" />
-        </div>
+        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
+             width="50"
+             height="50"
+             alt="SQL logo" />
       </td>
 
+      <!-- LINGUAGENS -->
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+             width="50"
+             height="50"
+             alt="Python logo" />
         &nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+             width="50"
+             height="50"
+             alt="R logo" />
       </td>
 
+      <!-- IAs -->
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/0b227b3d-5670-4ea2-9aff-0b365cd6ae9f"
-             width="90"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+             width="50"
+             height="50"
              alt="ChatGPT logo"
-             style="margin: 10px;" />
+             style="vertical-align: middle;" />
       </td>
     </tr>
   </tbody>
