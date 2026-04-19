@@ -27,3 +27,11 @@
  </a>
 </p>
 
+<!-- CONTADORES -->
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Lorran2025&label=Visualiza%C3%A7%C3%B5es&color=eab308" />
+ <img src="https://img.shields.io/github/followers/Lorran2025?label=Seguidores&color=ca8a04" />
+ <img src="https://img.shields.io/github/stars/Lorran2025?label=Estrelas&color=ca8a04" />
+</p>
+<hr/>
+
