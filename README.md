@@ -57,4 +57,35 @@ Estou em constante busca por oportunidades e aprendizados que me permitam aplica
 Valorizo ​​ambientes que incentivam o aprendizado contínuo e o trabalho em equipe, e estou sempre disposto a explorar novas linguagens , 
 ferramentas e metodologias que ampliam meu repertório técnico e profissional.
 
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th width="33%">🗄️ Banco de Dados</th>
+      <th width="33%">📊 Visualização de Dados</th>
+      <th width="33%">📋 Planilhas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL logo" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server logo" />
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI logo" />&nbsp;&nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau logo" />
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50" height="50" alt="Excel logo" />&nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" width="50" height="50" alt="Google Sheets logo" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
