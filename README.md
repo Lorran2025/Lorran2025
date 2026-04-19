@@ -94,7 +94,7 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
     <tr>
       <th width="33%">🧠 Técnicas</th>
       <th width="33%">🐍 Linguagens de Programação</th>
-      <th width="30%">🤖 IAs e Automações</th>
+      <th width="33%">🤖 IAs e Automações</th>
     </tr>
   </thead>
   <tbody>
