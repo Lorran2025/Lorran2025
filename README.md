@@ -107,7 +107,7 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R logo" />
       </td>
       <td align="center">
-       <img src="https://github.com/user-attachments/assets/e500bf36-59b2-498c-a4c3-87fdde27afbb" width="50" height="50" alt="ChatGPT logo" />
+       <img src="https://github.com/user-attachments/assets/545402e1-cf75-4918-8876-c7919a8f1e19" width="50" height="50" alt="ChatGPT logo" />
       <td></td>
     </tr>
   </tbody>
