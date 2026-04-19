@@ -94,7 +94,7 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
     <tr>
       <th width="33%">🧠 Técnicas</th>
       <th width="33%">🐍 Linguagens de Programação</th>
-      <th width="33%"></th>
+      <th width="33%">🤖 IAs e Automações</th>
     </tr>
   </thead>
   <tbody>
@@ -107,6 +107,9 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R logo" />
       </td>
+      <td align="center">
+        <img src="<img width="414" height="121" alt="image" src="https://github.com/user-attachments/assets/0b227b3d-5670-4ea2-9aff-0b365cd6ae9f" width="50" height="50" alt="Chatgpt logo" />
+
       <td></td>
     </tr>
   </tbody>
