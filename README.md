@@ -19,5 +19,8 @@
   <a href="https://www.linkedin.com/in/lorran-pereira" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+ <a href="maito:lorranpereiraslv@gmail.com" target="_blank" rel="noreferrer">
+  <img src= "https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
 </p>
 
