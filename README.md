@@ -100,6 +100,13 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
   <tbody>
     <tr>
       <td align="center">
+        <div style="
+          display: inline-block;
+          background-color: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 12px;
+          padding: 25px 40px;
+        ">
         <!-- Logo SQL genérica -->
         <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50" height="50" alt="SQL logo" />
       </td>
