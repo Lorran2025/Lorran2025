@@ -109,7 +109,6 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
       </td>
       <td align="center">
        <img src="https://github.com/user-attachments/assets/0b227b3d-5670-4ea2-9aff-0b365cd6ae9f" width="50" height="50" alt="ChatGPT logo" />
-
       <td></td>
     </tr>
   </tbody>
