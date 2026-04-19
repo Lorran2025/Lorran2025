@@ -88,47 +88,25 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
   </tbody>
 </table>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr>
-      <th width="33%">🧠 Técnicas</th>
-      <th width="33%">🐍 Linguagens de Programação</th>
-      <th width="33%">🤖 IAs e Automações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <!-- TÉCNICAS -->
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
-             width="50"
-             height="50"
-             alt="SQL logo" />
-      </td>
+<table align="center">
+  <tr>
+    <th>🧠 Técnicas</th>
+    <th>🐍 Linguagens</th>
+    <th>🤖 IAs e Automações</th>
+  </tr>
 
-      <!-- LINGUAGENS -->
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-             width="50"
-             height="50"
-             alt="Python logo" />
-        &nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
-             width="50"
-             height="50"
-             alt="R logo" />
-      </td>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50"/>
+    </td>
 
-      <!-- IAs -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
-             width="50"
-             height="50"
-             alt="ChatGPT logo"
-             style="vertical-align: middle;" />
-      </td>
-    </tr>
-  </tbody>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+    </td>
+
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/>
+    </td>
+  </tr>
 </table>
-
-
