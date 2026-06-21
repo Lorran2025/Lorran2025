@@ -9,7 +9,7 @@
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+mundo!+Sejam+bem-vindos+ao+meu+hub+de+dados"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+mundo!+Sejam+bem-vindos+ao+meu+hub+de+dados!"
     alt="Texto animado"
   />
 </p>
