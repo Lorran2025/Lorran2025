@@ -106,11 +106,8 @@ ferramentas e metodologias que ampliam meu repertório técnico e profissional.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R logo" />
       </td>
-     
-     <td align="center">
-  <img src="https://seeklogo.com/images/C/chatgpt-logo-02AFA704B5-seeklogo.com.png" width="50" height="50" alt="ChatGPT logo" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic" width="50" height="50" alt="Claude logo" />
-  
+      <td align="center">
+       <img src="https://seeklogo.com/images/C/chatgpt-logo-02AFA704B5-seeklogo.com.png" width="50" height="50" alt="ChatGPT logo" />
       <td></td>
     </tr>
   </tbody>
