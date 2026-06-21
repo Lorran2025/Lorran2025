@@ -8,10 +8,10 @@
 
 <!-- FRASE ANIMADA -->
 <p align="center">
- <img
- src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=D%C3%AA+vida+aos+dados!;O+objetivo+n%C3%A3o+%C3%A9+mostrar+todos+os+dados%2C+%C3%A9+mostrar+o+que+importa."
- alt="Texto animado"
- />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+mundo!+Sejam+bem-vindos+ao+meu+hub+de+dados"
+    alt="Texto animado"
+  />
 </p>
 
 <!-- BOTÕES -->
